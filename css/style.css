@@ -1,0 +1,284 @@
+
+*{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 1.125rem;
+}
+.hero{
+    background-color: #87509c;
+    height: auto;
+    padding-top: 60px;
+    padding-bottom: 145px;
+}
+.lead{
+    padding-top: 145px;
+    font-size: 2.625rem;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+    padding-bottom: 65px;
+    width: 90%;
+    margin: auto;
+}
+h2.card1{
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding-top: 50px;
+}
+p.card1{
+    font-size: 1rem;
+    padding-top: 15px;
+    width: 95%;
+}
+p.crdtitle{
+    color: #44bee8;
+}
+.lg{
+    box-sizing: border-box;
+    width: 295px;
+    height: 70px;
+    background-color: #eb7d4b;
+    color: #fff;
+}
+.big{
+    display: table-cell;
+    font-size: 2.625rem;
+    color: #fff;
+}
+.navbar{
+    float: right;
+    font-family: 'Titillium Web', sans-serif;
+    padding: 0 !important;
+    width: 100%;
+}
+.nav-link{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+.fa-bars{
+    color: #fff;
+}
+.nav-link:hover{
+    color: #fff;
+    background-color: #643a79;
+}
+.services{
+    height: auto;
+    background-color: #17c2a4;
+    padding-top: 120px;
+    color: #fff;
+    padding-bottom: 130px;
+}
+.servicetitle{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.colorshape{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: #878787;
+    margin: auto;
+}
+.teamintro{
+    height: auto;
+    background-color: #e7f1f8;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.teamintro>h2{
+    font-size:2.56rem;
+    font-weight: bold;
+}
+.gotskill{
+    height: auto;
+    padding-top: 115px;
+    padding-bottom: 120px;
+}
+.portfolio{
+    background-color: #ffdd99;
+    padding-top: 120px;
+    padding-bottom: 110px;
+}
+.bgroup{
+    padding: 10px 20px;
+    margin: 0 5px;
+    background-color: #ebc985;
+    border-style: none;
+    font-size: 18px;
+    border-radius: 10%;
+}
+.bgroup:hover{
+    background-color: #fff;
+}
+.aboutus{
+    background-color: #d74680;
+    color: #fff;
+    padding-top: 115px;
+    padding-bottom: 130px;
+}
+h2.card2{
+    font-size: 21px !important;
+    font-weight: bold;
+}
+h6.card2{
+    font-size: 18px;
+    color: #ffdd99;
+}
+p.card2{
+    font-style: italic;
+    font-size: 18px;
+}
+.small{
+    width: 100px;
+    height: 100px;
+}
+.getintouch{
+    background-color: #3c5499;
+    color: #fff;
+    padding-top: 115px;
+    padding-bottom: 115px;
+}
+.form-control{
+    background-color: #273a71;
+    border-style: none;
+}
+::placeholder{
+    color: #fff;
+}
+.abttitle{
+    font-size: 2.5rem;
+    font-weight:bolder;
+}
+.bluebtn{
+    background-color: #30bae7;
+    color: #fff;
+    margin: auto;
+    width: 295px;
+    height: 70px;
+    font-size: 18px;
+    box-shadow: 5px #299ec5;
+}
+.nav{
+    background-color: #344b8e;
+    height: auto;
+}
+.box {
+  width:200px;
+  height:200px;
+  display:inline-block;
+  border-radius:50%;
+  border:20px solid transparent;
+}
+.cyan{
+    background:
+    linear-gradient(#fff,#fff) padding-box,
+    linear-gradient(var(--v), #30bae7 50%,transparent 0) border-box,
+    linear-gradient(to right, #f2f2f2 50%,#30bae7 0) border-box;
+}
+.pink{
+    background:
+    linear-gradient(#fff,#fff) padding-box,
+    linear-gradient(var(--v), #d74680 50%,transparent 0) border-box,
+    linear-gradient(to right, #f2f2f2 50%,#d74680 0) border-box;
+}
+.green{
+    background:
+    linear-gradient(#fff,#fff) padding-box,
+    linear-gradient(var(--v), #15c7a8 50%,transparent 0) border-box,
+    linear-gradient(to right, #f2f2f2 50%,#15c7a8 0) border-box;
+}
+.orange{
+    background:
+    linear-gradient(#fff,#fff) padding-box,
+    linear-gradient(var(--v), #eb7d4b 50%,transparent 0) border-box,
+    linear-gradient(to right, #f2f2f2 50%,#eb7d4b 0) border-box;
+}
+.box span{
+    font-size: 3.125rem;
+    display: inline-block;
+    position: relative;
+    top: 35px;
+    left: 8px;
+    font-weight: 400;
+}
+small.text-muted{
+    color: #f5bd93 !important;
+}
+.exampleFormControlTextarea1{
+    width: auto;
+    height: 100px;
+}
+p.skill{
+    width: 60%;
+    margin: auto;
+}
+h2.skillhead{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 25px;
+}
+hr{
+    padding-top: 22px;
+    width: 5% !important;
+    color: #000;
+    opacity: .3;
+}
+footer{
+    padding-top: 45px;
+    padding-bottom: 45px;
+    background-color: #344b8e;
+}
+.footerlinks{
+    color: #fff;
+    font-size: 18px;
+    margin: 0 25px;
+    font-family: 'Titillium Web', sans-serif;
+}
+.footerlinks:hover{
+    color: #30bae7;
+    text-decoration: none;
+}
+@media screen and (max-width: 768px) {
+  h2,h6,.footerlinks {
+    font-size: 75%;
+  }
+  .bluebtn{
+    width: 142px;
+    height: 35px;
+    font-size: 12px;
+  }
+  .lead{
+    font-size: 90%;
+  }
+  p.text-center{
+      width: 100%;
+      font-size: 85%;
+  }
+  p.card2,h2.card2,h6.card2{
+      font-size: 70%;
+  }
+  p.skill{
+      font-size: 75%;
+  }
+  .lg{
+    width: 142px;
+    height: 35px;
+    font-size: 10px;
+  }
+  .adres,.adres>a{
+    font-size: 75%;
+  }
+}
+@media screen and (max-width: 576px) {
+h2,h6{
+    font-size:95% !important;
+}
+h2.card2,h6.card2,p.card2{
+    font-size: 75% !important;
+}
+.bgroup{
+    padding: 5px 10px;
+    font-size: 12px;
+}
+}
